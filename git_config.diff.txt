@@ -1,0 +1,14 @@
+@@ -4,8 +4,11 @@
+ 	bare = false
+ 	logallrefupdates = true
+ [remote "origin"]
+-	url = https://github.com/yayo/wispbyte.git
+-	fetch = +refs/heads/*:refs/remotes/origin/*
++  url = https://github.com/yayo/wispbyte.git
++	fetch = refs/heads/main
+ [branch "main"]
+ 	remote = origin
+ 	merge = refs/heads/main
++[pull]
++	ff = false
++	rebase = true
