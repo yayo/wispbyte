@@ -1,0 +1,16 @@
+/.env
+/config.json
+/zabbix_agent2.conf
+/zabbix_scripts/echo_epoch
+/npm-system-worker
+/easytier-core
+/zabbix_agent2
+/cloudflared
+/npm-system-worker.zip
+/easytier-core.zip
+/zabbix_agent2.zip
+/cloudflared.zip
+/npm-system-worker.zstd
+/easytier-core.zstd
+/zabbix_agent2.zstd
+/cloudflared.zstd
